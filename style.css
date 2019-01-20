@@ -1,0 +1,37 @@
+#container {
+    margin-top: 20px;
+    margin-left: 170px;
+    margin-right: 170px;
+    
+    padding: 10px 150px 10px 150px;
+    
+    border-radius: 15px;
+    background-color:#fff5c1;
+    
+    text-align: left;
+}
+
+h1 {
+      font-size: 50px;
+      margin-bottom: -15px;
+}
+
+h2 {
+      font-size: 15px;
+      margin-bottom: -5px;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: bold;
+    font-decoration: underline;
+    margin-bottom: -10px;
+}
+
+h4 {
+      font-size: 22px
+      margin-bottom: -10px
+}
+
+
+      
